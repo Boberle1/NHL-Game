@@ -1,0 +1,843 @@
+S.J
+105
+8470063
+Adam Burish
+R
+S.J
+01/06/1983
+195
+USA
+R
+378482197
+Adam Raska
+R
+SJS
+09/25/2001
+178
+CZE
+R
+578482222
+Alexander Barabanov
+L
+SJS
+06/17/1994
+192
+RUS
+L
+948480965
+Antti Suomela
+C
+S.J
+03/17/1994
+180
+FIN
+L
+408468515
+Brad Winchester
+L
+S.J
+03/01/1981
+230
+USA
+L
+158474516
+Bryan Lerg
+C
+S.J
+01/20/1986
+175
+USA
+L
+118448772
+Claude Lemieux
+R
+S.J
+07/16/1965
+215
+CAN
+R
+328464977
+Dainius Zubrus
+C
+S.J
+06/16/1978
+225
+LTU
+L
+98464977
+Dainius Zubrus
+C
+S.J
+06/16/1978
+225
+LTU
+L
+98470131
+Dwight Helminen
+C
+S.J
+06/22/1983
+191
+USA
+L
+368477227
+Eriah Hayes
+R
+S.J
+07/07/1988
+210
+USA
+R
+768482248
+Fredrik Handemark
+C
+S.J
+08/27/1993
+210
+SWE
+L
+378477227
+Eriah Hayes
+R
+S.J
+07/07/1988
+210
+USA
+R
+768482248
+Fredrik Handemark
+C
+S.J
+08/27/1993
+210
+SWE
+L
+378480276
+Ivan Chekhovich
+L
+S.J
+01/04/1999
+185
+RUS
+L
+828471498
+Jannik Hansen
+R
+S.J
+03/15/1986
+198
+DNK
+R
+368481061
+Jasper Weatherby
+C
+SJS
+01/22/1998
+202
+USA
+L
+268480304
+Jayden Halbgewachs
+L
+SJS
+03/22/1997
+160
+CAN
+L
+898479705
+Jeffrey Viel
+L
+SJS
+01/28/1997
+197
+CAN
+L
+638471498
+Jannik Hansen
+R
+S.J
+03/15/1986
+198
+DNK
+R
+368481061
+Jasper Weatherby
+C
+SJS
+01/22/1998
+202
+USA
+L
+268480304
+Jayden Halbgewachs
+L
+SJS
+03/22/1997
+160
+CAN
+L
+898479705
+Jeffrey Viel
+L
+SJS
+01/28/1997
+197
+CAN
+L
+638450978
+Jeremy Roenick
+C
+S.J
+01/17/1970
+205
+USA
+R
+278479571
+Joachim Blichfeld
+R
+S.J
+07/17/1998
+180
+DNK
+R
+868481516
+Joel Kellman
+C
+S.J
+05/25/1994
+192
+SWE
+L
+468468208
+Joel Ward
+R
+S.J
+12/02/1980
+225
+CAN
+R
+428481077
+John Leonard
+L
+SJS
+08/07/1998
+183
+USA
+L
+438473562
+John McCarthy
+C
+S.J
+08/09/1986
+195
+USA
+L
+178479981
+Jonah Gadjovich
+L
+SJS
+10/12/1998
+209
+CAN
+L
+418479373
+Jonathan Dahlen
+C
+SJS
+12/20/1997
+176
+SWE
+L
+768478099
+Kevin Labanc
+R
+SJS
+12/12/1995
+185
+USA
+R
+628478967
+Lane Pederson
+C
+SJS
+08/04/1997
+190
+CAN
+R
+938481640
+Lean Bergmann
+C
+S.J
+10/04/1998
+205
+DEU
+L
+458474053
+Logan Couture
+C
+SJS
+03/28/1989
+200
+CAN
+L
+398471235
+Lukas Kaspar
+L
+S.J
+09/23/1985
+225
+CZE
+R
+228480780
+Lukas Radil
+C
+S.J
+08/05/1990
+200
+CZE
+R
+528475834
+Marcus Sorensen
+L
+S.J
+04/07/1992
+175
+SWE
+L
+208476442
+Matt Nieto
+L
+SJS
+11/05/1992
+190
+USA
+L
+838471700
+Matt Pelech
+R
+S.J
+09/04/1987
+230
+CAN
+R
+428477983
+Maxim Letunov
+C
+S.J
+02/20/1996
+180
+RUS
+L
+848477922
+Melker Karlsson
+C
+S.J
+07/18/1990
+180
+SWE
+R
+688474009
+Nick Bonino
+C
+SJS
+04/20/1988
+196
+USA
+L
+138478447
+Nick Merkley
+R
+SJS
+05/23/1997
+194
+CAN
+L
+388474009
+Nick Bonino
+C
+SJS
+04/20/1988
+196
+USA
+L
+138478447
+Nick Merkley
+R
+SJS
+05/23/1997
+194
+CAN
+L
+388474096
+Nick Spaling
+C
+S.J
+09/19/1988
+198
+CAN
+L
+168479393
+Noah Gregor
+C
+SJS
+07/28/1998
+185
+CAN
+L
+738466139
+Patrick Marleau
+C
+S.J
+09/15/1979
+218
+CAN
+L
+128468485
+Raffi Torres
+L
+S.J
+10/08/1981
+215
+CAN
+L
+138471516
+Riley Armstrong
+C
+S.J
+11/08/1984
+185
+CAN
+R
+408478078
+Rourke Chartier
+C
+S.J
+04/03/1996
+190
+CAN
+L
+608478870
+Rudolfs Balcers
+L
+SJS
+04/08/1997
+175
+LVA
+L
+388476288
+Ryan Dzingel
+C
+SJS
+03/09/1992
+190
+USA
+L
+188472215
+Ryan Vesce
+R
+S.J
+04/07/1982
+175
+USA
+R
+538480053
+Sasha Chmelevski
+C
+SJS
+06/09/1999
+180
+USA
+R
+558480060
+Scott Reedy
+C
+SJS
+04/04/1999
+205
+USA
+R
+548480053
+Sasha Chmelevski
+C
+SJS
+06/09/1999
+180
+USA
+R
+558480060
+Scott Reedy
+C
+SJS
+04/04/1999
+205
+USA
+R
+548482133
+Thomas Bordeleau
+C
+SJS
+01/03/2002
+175
+USA
+L
+238478414
+Timo Meier
+R
+SJS
+10/08/1996
+210
+CHE
+L
+288469629
+Tom Cavanagh
+R
+S.J
+03/24/1982
+200
+USA
+L
+478476881
+Tomas Hertl
+C
+SJS
+11/12/1993
+215
+CZE
+L
+488469587
+Tomas Plihal
+C
+S.J
+03/28/1983
+210
+CZE
+L
+398482667
+William Eklund
+C
+SJS
+10/12/2002
+176
+SWE
+L
+728467909
+Alexei Semenov
+D
+S.J
+04/10/1981
+245
+RUS
+L
+218481552
+Artemi Kniazev
+D
+SJS
+01/04/2001
+178
+RUS
+L
+258470613
+Brent Burns
+D
+SJS
+03/09/1985
+230
+CAN
+R
+888482369
+Brinson Pasichnuk
+D
+S.J
+11/24/1997
+205
+CAN
+L
+508465005
+Colin White
+D
+S.J
+12/12/1977
+215
+CAN
+L
+58474774
+Dalton Prout
+D
+S.J
+03/13/1990
+215
+CAN
+R
+68465005
+Colin White
+D
+S.J
+12/12/1977
+215
+CAN
+L
+58474774
+Dalton Prout
+D
+S.J
+03/13/1990
+215
+CAN
+R
+68474578
+Erik Karlsson
+D
+SJS
+05/31/1990
+190
+SWE
+R
+658474578
+Erik Karlsson
+D
+SJS
+05/31/1990
+190
+SWE
+R
+658477034
+Jaycob Megna
+D
+SJS
+12/10/1992
+221
+USA
+L
+448477034
+Jaycob Megna
+D
+SJS
+12/10/1992
+221
+USA
+L
+448468213
+Jim Vandermeer
+D
+S.J
+02/21/1980
+210
+CAN
+L
+248471709
+Marc-Edouard Vlasic
+D
+SJS
+03/30/1987
+205
+CAN
+L
+448479983
+Mario Ferraro
+D
+SJS
+09/17/1998
+185
+CAN
+L
+388474531
+Mike Moore
+D
+S.J
+12/12/1984
+210
+CAN
+L
+68474032
+Nick Petrecki
+D
+S.J
+07/11/1989
+230
+USA
+L
+548474531
+Mike Moore
+D
+S.J
+12/12/1984
+210
+CAN
+L
+68474032
+Nick Petrecki
+D
+S.J
+07/11/1989
+230
+USA
+L
+548468577
+Niclas Wallin
+D
+S.J
+02/20/1975
+220
+SWE
+L
+78478467
+Nicolas Meloche
+D
+SJS
+07/18/1997
+205
+CAN
+R
+538481812
+Nikolai Knyzhov
+D
+S.J
+03/20/1998
+194
+RUS
+L
+718468542
+Paul Martin
+D
+S.J
+03/05/1981
+200
+USA
+L
+78480160
+Radim Simek
+D
+SJS
+09/20/1992
+200
+CZE
+L
+518445550
+Rob Blake
+D
+S.J
+12/10/1969
+220
+CAN
+R
+48480847
+Ryan Merkley
+D
+SJS
+08/14/2000
+170
+CAN
+R
+68481701
+Santeri Hatakka
+D
+SJS
+01/15/2001
+174
+FIN
+L
+618466158
+Scott Hannan
+D
+S.J
+01/23/1979
+215
+CAN
+L
+278481701
+Santeri Hatakka
+D
+SJS
+01/15/2001
+174
+FIN
+L
+618466158
+Scott Hannan
+D
+S.J
+01/23/1979
+215
+CAN
+L
+278475841
+Tim Heed
+D
+S.J
+01/27/1991
+180
+SWE
+R
+728476953
+Trevor Carrick
+D
+S.J
+07/04/1994
+196
+CAN
+L
+468478499
+Adin Hill
+G
+SJS
+05/11/1996
+202
+CAN
+L
+318471774
+Alex Stalock
+G
+SJS
+07/28/1987
+198
+USA
+L
+328482246
+Alexei Melnichuk
+G
+S.J
+06/29/1998
+190
+RUS
+L
+18467511
+Antero Niittymaki
+G
+S.J
+06/18/1980
+195
+FIN
+L
+308473503
+James Reimer
+G
+SJS
+03/15/1988
+220
+CAN
+L
+348473503
+James Reimer
+G
+SJS
+03/15/1988
+220
+CAN
+L
+348478039
+Kaapo Kahkonen
+G
+SJS
+08/16/1996
+215
+FIN
+L
+318479313
+Zach Sawchenko
+G
+SJS
+12/30/1998
+185
+CAN
+L
+36

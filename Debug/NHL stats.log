@@ -1,0 +1,59 @@
+﻿  GameFrame.cpp
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(227,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(235,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(511,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(519,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(574,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(886,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(934,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\GameFrame.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+  NHL_League.cpp
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(227,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(235,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(511,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(519,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(574,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(886,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(934,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1139,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1141,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1141,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1182,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1184,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1437,36): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1443,37): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1449,35): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(1857,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(2399,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(2404,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(2421,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(2426,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(2450,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(2537,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(2681,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(2883,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.cpp(3316,15): warning C4018: '<': signed/unsigned mismatch
+  NHLapp.cpp
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(227,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(235,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(511,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(519,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(574,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(886,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(934,51): warning C4018: '<': signed/unsigned mismatch
+  mainwindow.cpp
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(227,19): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(235,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(511,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(519,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(574,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(886,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\NHL_League.h(934,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\mainwindow.cpp(102,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\mainwindow.cpp(104,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\mainwindow.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\mainwindow.cpp(119,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brand\source\repos\NHL stats\NHL stats\mainwindow.cpp(439,15): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  NHL stats.vcxproj -> C:\Users\brand\source\repos\NHL stats\Debug\NHL stats.exe

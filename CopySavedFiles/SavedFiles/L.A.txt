@@ -1,0 +1,723 @@
+L.A
+90
+8477960
+Adrian Kempe
+C
+LAK
+09/13/1996
+201
+SWE
+L
+98480113
+Alex Iafallo
+L
+LAK
+12/21/1993
+188
+USA
+L
+198481532
+Alex Turcotte
+C
+LAK
+02/26/2001
+185
+USA
+L
+398476960
+Andreas Athanasiou
+C
+LAK
+08/06/1994
+188
+CAN
+L
+728476020
+Andrew Crescenzi
+C
+L.A
+07/29/1992
+207
+CAN
+L
+478471685
+Anze Kopitar
+C
+LAK
+08/24/1987
+225
+SVN
+L
+118481560
+Arthur Kaliyev
+R
+LAK
+06/26/2001
+190
+USA
+L
+348478455
+Austin Wagner
+L
+L.A
+06/23/1997
+185
+CAN
+L
+518477962
+Brendan Lemieux
+L
+LAK
+03/15/1996
+210
+USA
+L
+488469639
+Brooks Laich
+C
+L.A
+06/23/1983
+200
+CAN
+L
+258479336
+Carl Grundstrom
+R
+LAK
+12/01/1997
+201
+SWE
+L
+388475086
+Corey Elkins
+C
+L.A
+02/23/1985
+214
+USA
+L
+478470189
+David Van Der Gulik
+L
+L.A
+04/20/1983
+173
+CAN
+L
+368471682
+Devin Setoguchi
+R
+L.A
+01/01/1987
+205
+CAN
+R
+108475086
+Corey Elkins
+C
+L.A
+02/23/1985
+214
+USA
+L
+478470189
+David Van Der Gulik
+L
+L.A
+04/20/1983
+173
+CAN
+L
+368471682
+Devin Setoguchi
+R
+L.A
+01/01/1987
+205
+CAN
+R
+108480221
+Drake Rymsha
+C
+L.A
+08/06/1998
+187
+USA
+R
+438470606
+Dustin Brown
+R
+LAK
+11/04/1984
+210
+USA
+R
+238460504
+Ethan Moreau
+L
+L.A
+09/22/1975
+223
+CAN
+L
+178480014
+Gabriel Vilardi
+C
+LAK
+08/16/1999
+201
+CAN
+R
+428460504
+Ethan Moreau
+L
+L.A
+09/22/1975
+223
+CAN
+L
+178480014
+Gabriel Vilardi
+C
+LAK
+08/16/1999
+201
+CAN
+R
+428479994
+Jaret Anderson-Dolan
+C
+LAK
+09/12/1999
+188
+CAN
+L
+288462042
+Jarome Iginla
+R
+L.A
+07/01/1977
+210
+CAN
+R
+888479994
+Jaret Anderson-Dolan
+C
+LAK
+09/12/1999
+188
+CAN
+L
+288462042
+Jarome Iginla
+R
+L.A
+07/01/1977
+210
+CAN
+R
+888470113
+John Zeiler
+R
+L.A
+11/21/1982
+204
+USA
+R
+298477428
+Justin Auger
+R
+L.A
+05/14/1994
+232
+CAN
+R
+798480072
+Lias Andersson
+C
+LAK
+10/13/1998
+204
+SWE
+L
+508476924
+Martin Frk
+R
+LAK
+10/05/1993
+205
+CZE
+R
+428476352
+Michael Mersch
+L
+L.A
+10/02/1992
+215
+USA
+L
+208477957
+Nikita Scherbak
+R
+L.A
+12/30/1995
+192
+RUS
+L
+218476947
+Nikolai Prokhorkin
+L
+L.A
+09/17/1993
+190
+RUS
+L
+748474114
+Oscar Moller
+R
+L.A
+01/22/1989
+189
+SWE
+R
+98476479
+Phillip Danault
+C
+LAK
+02/24/1993
+198
+CAN
+L
+248482124
+Quinton Byfield
+C
+LAK
+08/19/2002
+215
+CAN
+L
+558480845
+Rasmus Kupari
+C
+LAK
+03/15/2000
+183
+FIN
+R
+898481239
+Samuel Fagemo
+L
+LAK
+03/14/2000
+200
+SWE
+R
+688471386
+Scott Parse
+L
+L.A
+09/05/1984
+189
+USA
+R
+218481239
+Samuel Fagemo
+L
+LAK
+03/14/2000
+200
+SWE
+R
+688471386
+Scott Parse
+L
+L.A
+09/05/1984
+189
+USA
+R
+218476391
+T.J. Tynan
+C
+LAK
+02/25/1992
+165
+USA
+R
+688473962
+Teddy Purcell
+L
+L.A
+09/08/1985
+195
+CAN
+R
+98477213
+Tim Schaller
+L
+L.A
+11/16/1990
+204
+USA
+L
+598471338
+Torrey Mitchell
+C
+L.A
+01/30/1985
+186
+CAN
+R
+718467466
+Trent Hunter
+R
+L.A
+07/05/1980
+217
+CAN
+R
+478479675
+Trevor Moore
+C
+LAK
+03/31/1995
+182
+USA
+L
+428478042
+Viktor Arvidsson
+L
+LAK
+04/08/1993
+180
+SWE
+R
+338467329
+Vincent Lecavalier
+C
+L.A
+04/21/1980
+215
+CAN
+L
+448478250
+Vladimir Tkachev
+L
+LAK
+10/05/1995
+170
+RUS
+R
+218471303
+Alexander Edler
+D
+LAK
+04/21/1986
+212
+SWE
+L
+238480467
+Austin Strand
+D
+LAK
+02/17/1997
+216
+CAN
+R
+718478846
+Christian Wolanin
+D
+LAK
+03/17/1995
+185
+CAN
+L
+868480771
+Daniel Brickley
+D
+L.A
+03/30/1995
+203
+USA
+L
+788462050
+Denis Gauthier
+D
+L.A
+10/01/1976
+220
+CAN
+L
+218480771
+Daniel Brickley
+D
+L.A
+03/30/1995
+203
+USA
+L
+788462050
+Denis Gauthier
+D
+L.A
+10/01/1976
+220
+CAN
+L
+218470602
+Dion Phaneuf
+D
+L.A
+04/10/1985
+222
+CAN
+L
+38474563
+Drew Doughty
+D
+LAK
+12/08/1989
+202
+CAN
+R
+88479421
+Jacob Moverare
+D
+LAK
+08/31/1998
+210
+SWE
+L
+578471240
+Jeff Schultz
+D
+L.A
+02/25/1986
+225
+CAN
+L
+558471240
+Jeff Schultz
+D
+L.A
+02/25/1986
+225
+CAN
+L
+558481606
+Jordan Spence
+D
+LAK
+02/24/2001
+180
+CAN
+R
+538481606
+Jordan Spence
+D
+LAK
+02/24/2001
+180
+CAN
+R
+538475729
+Mark Alt
+D
+L.A
+10/18/1991
+201
+USA
+R
+78470121
+Matt Greene
+D
+L.A
+05/13/1983
+236
+USA
+R
+28479998
+Mikey Anderson
+D
+LAK
+05/25/1999
+197
+USA
+L
+448479998
+Mikey Anderson
+D
+LAK
+05/25/1999
+197
+USA
+L
+448476874
+Olli Maatta
+D
+LAK
+08/22/1994
+206
+FIN
+L
+38467452
+Rob Scuderi
+D
+L.A
+12/30/1978
+216
+USA
+L
+78467344
+Robyn Regehr
+D
+L.A
+04/19/1980
+222
+CAN
+L
+448480434
+Sean Durzi
+D
+LAK
+10/21/1998
+195
+CAN
+R
+508480336
+Sean Walker
+D
+LAK
+11/13/1994
+196
+CAN
+R
+618480434
+Sean Durzi
+D
+LAK
+10/21/1998
+195
+CAN
+R
+508480336
+Sean Walker
+D
+LAK
+11/13/1994
+196
+CAN
+R
+618474594
+Slava Voynov
+D
+L.A
+01/15/1990
+194
+RUS
+R
+268481600
+Tobias Bjornfot
+D
+LAK
+04/06/2001
+202
+SWE
+L
+338470104
+Tom Gilbert
+D
+L.A
+01/10/1983
+210
+USA
+R
+68479442
+Troy Stecher
+D
+LAK
+04/07/1994
+186
+CAN
+R
+518477361
+Cal Petersen
+G
+LAK
+10/19/1994
+185
+USA
+R
+408473975
+Erik Ersberg
+G
+L.A
+03/08/1982
+165
+SWE
+L
+318476343
+Garret Sparks
+G
+LAK
+06/28/1993
+201
+USA
+L
+408473975
+Erik Ersberg
+G
+L.A
+03/08/1982
+165
+SWE
+L
+318476343
+Garret Sparks
+G
+LAK
+06/28/1993
+201
+USA
+L
+408473553
+Jeff Zatkoff
+G
+L.A
+06/09/1987
+186
+USA
+L
+358473553
+Jeff Zatkoff
+G
+L.A
+06/09/1987
+186
+USA
+L
+358471734
+Jonathan Quick
+G
+LAK
+01/21/1986
+216
+USA
+L
+328469514
+Peter Budaj
+G
+L.A
+09/18/1982
+196
+SVK
+L
+318477234
+Troy Grosenick
+G
+L.A
+08/27/1989
+185
+USA
+L
+1

@@ -1,0 +1,5 @@
+﻿  mainwindow.cpp
+C:\Users\brand\source\repos\NHL stats\NHL stats\mainwindow.h(2,10): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+  NHLapp.cpp
+C:\Users\brand\source\repos\NHL stats\NHL stats\mainwindow.h(2,10): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+  Generating Code...

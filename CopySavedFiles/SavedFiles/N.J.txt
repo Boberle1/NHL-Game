@@ -1,0 +1,1059 @@
+N.J
+132
+8478421
+A.J. Greer
+L
+NJD
+12/14/1996
+210
+CAN
+L
+248466216
+Adam Mair
+C
+N.J
+02/15/1979
+208
+CAN
+R
+118482125
+Alexander Holtz
+R
+NJD
+01/23/2002
+195
+SWE
+R
+108473605
+Alexander Vasyunov
+L
+N.J
+04/22/1988
+210
+RUS
+R
+188467412
+Alexei Ponikarovsky
+L
+N.J
+04/09/1980
+225
+UKR
+L
+128477341
+Andreas Johnsson
+L
+NJD
+11/21/1994
+181
+SWE
+L
+188467355
+Andrew Peters
+L
+N.J
+05/05/1980
+240
+CAN
+L
+118470199
+Barry Tallackson
+R
+N.J
+04/14/1983
+215
+USA
+R
+418476043
+Ben Street
+C
+N.J
+02/13/1987
+190
+CAN
+L
+468476526
+Ben Thomson
+L
+N.J
+01/16/1993
+205
+CAN
+L
+438471372
+Ben Walter
+C
+N.J
+05/11/1984
+190
+CAN
+L
+368476370
+Blake Pietila
+L
+N.J
+02/20/1993
+200
+USA
+L
+568447958
+Bobby Holik
+C
+N.J
+01/01/1970
+230
+CZE
+R
+168451302
+Brendan Shanahan
+L
+N.J
+01/23/1969
+220
+CAN
+R
+148476772
+Brian O'Neill
+R
+N.J
+06/01/1988
+175
+USA
+L
+188470123
+Cam Janssen
+R
+N.J
+04/15/1984
+215
+USA
+R
+258477059
+Damien Brunner
+R
+N.J
+03/09/1986
+185
+CHE
+R
+128482110
+Dawson Mercer
+C
+NJD
+10/27/2001
+180
+CAN
+R
+188458536
+Dean McAmmond
+C
+N.J
+06/15/1973
+195
+CAN
+L
+118477059
+Damien Brunner
+R
+N.J
+03/09/1986
+185
+CHE
+R
+128482110
+Dawson Mercer
+C
+NJD
+10/27/2001
+180
+CAN
+R
+188458536
+Dean McAmmond
+C
+N.J
+06/15/1973
+195
+CAN
+L
+118471226
+Drew Stafford
+R
+N.J
+10/30/1985
+215
+USA
+R
+188474025
+Eric Tangradi
+L
+N.J
+02/10/1989
+226
+USA
+L
+498480188
+Fabian Zetterlund
+L
+NJD
+08/25/1999
+220
+SWE
+R
+498477512
+Frederik Gauthier
+C
+NJD
+04/26/1995
+235
+CAN
+L
+338474025
+Eric Tangradi
+L
+N.J
+02/10/1989
+226
+USA
+L
+498480188
+Fabian Zetterlund
+L
+NJD
+08/25/1999
+220
+SWE
+R
+498477512
+Frederik Gauthier
+C
+NJD
+04/26/1995
+235
+CAN
+L
+338476849
+Harri Pesonen
+C
+N.J
+08/06/1988
+195
+FIN
+L
+158470225
+Ilkka Pikkarainen
+R
+N.J
+04/19/1981
+215
+FIN
+R
+178481559
+Jack Hughes
+C
+NJD
+05/14/2001
+170
+USA
+L
+868479511
+Janne Kuokkanen
+C
+NJD
+05/25/1998
+193
+FIN
+L
+598479511
+Janne Kuokkanen
+C
+NJD
+05/25/1998
+193
+FIN
+L
+598480003
+Jesper Boqvist
+C
+NJD
+10/30/1998
+180
+SWE
+L
+908479407
+Jesper Bratt
+L
+NJD
+07/30/1998
+175
+SWE
+L
+638474625
+Jimmy Hayes
+R
+N.J
+11/21/1989
+215
+USA
+R
+118476918
+Jimmy Vesey
+L
+NJD
+05/26/1993
+199
+USA
+L
+268473482
+Jiri Tlusty
+L
+N.J
+03/16/1988
+205
+CZE
+L
+98476227
+Joe Whitney
+R
+N.J
+02/06/1988
+167
+USA
+L
+108473989
+Luke Gazdic
+L
+N.J
+07/25/1989
+225
+CAN
+L
+178473944
+Matt Anderson
+R
+N.J
+10/31/1982
+195
+USA
+R
+128474582
+Mattias Tedenby
+R
+N.J
+02/21/1990
+175
+SWE
+L
+218479415
+Michael McLeod
+C
+NJD
+02/03/1998
+188
+CAN
+R
+418467545
+Michael Ryder
+R
+N.J
+03/31/1980
+200
+CAN
+R
+178476209
+Mike Sislo
+R
+N.J
+01/20/1988
+190
+USA
+R
+368477425
+Miles Wood
+L
+NJD
+09/13/1995
+195
+USA
+L
+448479250
+Nick Lappin
+R
+N.J
+11/01/1992
+175
+USA
+R
+368476209
+Mike Sislo
+R
+N.J
+01/20/1988
+190
+USA
+R
+368477425
+Miles Wood
+L
+NJD
+09/13/1995
+195
+USA
+L
+448479250
+Nick Lappin
+R
+N.J
+11/01/1992
+175
+USA
+R
+368480002
+Nico Hischier
+C
+NJD
+01/04/1999
+175
+CHE
+L
+138481518
+Nolan Foote
+L
+NJD
+11/29/2000
+196
+USA
+L
+258471764
+Patrick Davis
+R
+N.J
+12/28/1986
+195
+USA
+R
+218460542
+Patrik Elias
+C
+N.J
+04/13/1976
+190
+CZE
+L
+268478401
+Pavel Zacha
+C
+NJD
+04/06/1997
+210
+CZE
+L
+378460465
+Petr Sykora
+R
+N.J
+11/19/1976
+190
+CZE
+L
+158470635
+Petr Vrana
+L
+N.J
+03/29/1985
+174
+CZE
+L
+228471220
+Rostislav Olesz
+L
+N.J
+10/10/1985
+215
+CZE
+L
+258478566
+Sergey Kalinin
+C
+N.J
+03/17/1991
+200
+RUS
+L
+518478566
+Sergey Kalinin
+C
+N.J
+03/17/1991
+200
+RUS
+L
+518460719
+Steve Sullivan
+L
+N.J
+07/06/1974
+165
+CAN
+R
+158471365
+Steven Zalewski
+C
+N.J
+08/20/1986
+195
+USA
+L
+108471636
+Tim Sestito
+L
+N.J
+08/28/1984
+195
+USA
+L
+128466398
+Tom Kostopoulos
+R
+N.J
+01/24/1979
+197
+CAN
+R
+258475193
+Tomas Tatar
+L
+NJD
+12/01/1990
+182
+SVK
+L
+908469462
+Tuomo Ruutu
+L
+N.J
+02/16/1983
+200
+FIN
+L
+158481740
+Tyce Thompson
+R
+NJD
+07/12/1999
+178
+CAN
+R
+128471311
+Tyler Kennedy
+C
+N.J
+07/15/1986
+185
+CAN
+R
+488473592
+Vladimir Zharkov
+R
+N.J
+01/10/1988
+205
+RUS
+L
+188481068
+Yegor Sharangovich
+C
+NJD
+06/06/1998
+196
+BLR
+L
+178474557
+Anssi Salmela
+D
+N.J
+08/13/1984
+200
+FIN
+L
+298460626
+Bryce Salvador
+D
+N.J
+02/11/1976
+215
+CAN
+L
+248478868
+Christian Jaros
+D
+NJD
+04/02/1996
+201
+SVK
+R
+838478841
+Colton White
+D
+NJD
+05/03/1997
+185
+CAN
+L
+688476941
+Connor Carrick
+D
+N.J
+04/13/1994
+192
+USA
+R
+58473924
+Cory Murphy
+D
+N.J
+02/13/1978
+175
+CAN
+R
+188476923
+Damon Severson
+D
+NJD
+08/07/1994
+205
+CAN
+R
+288478841
+Colton White
+D
+NJD
+05/03/1997
+185
+CAN
+L
+688476941
+Connor Carrick
+D
+N.J
+04/13/1994
+192
+USA
+R
+58473924
+Cory Murphy
+D
+N.J
+02/13/1978
+175
+CAN
+R
+188476923
+Damon Severson
+D
+NJD
+08/07/1994
+205
+CAN
+R
+288476462
+Dougie Hamilton
+D
+NJD
+06/17/1993
+229
+CAN
+R
+198480948
+Egor Yakovlev
+D
+N.J
+09/17/1991
+190
+RUS
+L
+748473468
+Eric Gryba
+D
+N.J
+04/14/1988
+222
+CAN
+R
+28480948
+Egor Yakovlev
+D
+N.J
+09/17/1991
+190
+RUS
+L
+748473468
+Eric Gryba
+D
+N.J
+04/14/1988
+222
+CAN
+R
+28467436
+Jay Leach
+D
+N.J
+09/02/1979
+220
+USA
+L
+338467436
+Jay Leach
+D
+N.J
+09/02/1979
+220
+USA
+L
+338478399
+Jonas Siegenthaler
+D
+NJD
+05/06/1997
+206
+CHE
+L
+348477972
+Josh Jacobs
+D
+N.J
+02/15/1996
+200
+USA
+R
+408477972
+Josh Jacobs
+D
+N.J
+02/15/1996
+200
+USA
+R
+408476798
+Karl Stollery
+D
+N.J
+11/21/1987
+180
+CAN
+L
+468480860
+Kevin Bahl
+D
+NJD
+06/27/2000
+230
+CAN
+L
+888471752
+Marc-Andre Gragnani
+D
+N.J
+03/11/1987
+205
+CAN
+L
+388471748
+Mark Fraser
+D
+N.J
+09/29/1986
+220
+CAN
+L
+58467343
+Martin Skoula
+D
+N.J
+10/28/1979
+226
+CZE
+L
+288477419
+Mason Geertsen
+D
+NJD
+04/19/1995
+227
+CAN
+L
+558473580
+Matthew Corrente
+D
+N.J
+03/17/1988
+205
+CAN
+R
+228480081
+Michael Kapla
+D
+N.J
+09/19/1994
+200
+USA
+L
+328477509
+Mirco Mueller
+D
+N.J
+03/21/1995
+210
+CHE
+L
+258477509
+Mirco Mueller
+D
+N.J
+03/21/1995
+210
+CHE
+L
+258467956
+Niclas Havelid
+D
+N.J
+04/12/1973
+200
+SWE
+L
+288481537
+Nikita Okhotiuk
+D
+NJD
+12/04/2000
+195
+RUS
+L
+828471508
+Olivier Magnan
+D
+N.J
+05/01/1986
+210
+CAN
+L
+298474056
+P.K. Subban
+D
+NJD
+05/13/1989
+210
+CAN
+R
+768472394
+Peter Harrold
+D
+N.J
+06/08/1983
+180
+USA
+R
+378477127
+Raman Hrabarenka
+D
+N.J
+08/24/1992
+230
+BLR
+R
+348480054
+Reilly Walsh
+D
+NJD
+04/21/1999
+185
+USA
+R
+88467422
+Rob Davison
+D
+N.J
+05/01/1980
+215
+CAN
+L
+298477435
+Ryan Graves
+D
+NJD
+05/21/1995
+226
+CAN
+L
+278476465
+Ryan Murphy
+D
+N.J
+03/31/1993
+181
+CAN
+R
+68475274
+Seth Helgeson
+D
+N.J
+10/08/1990
+219
+USA
+L
+348475274
+Seth Helgeson
+D
+N.J
+10/08/1990
+219
+USA
+L
+348480883
+Ty Smith
+D
+NJD
+03/24/2000
+175
+CAN
+L
+248471429
+Tyler Eckford
+D
+N.J
+09/08/1985
+225
+CAN
+L
+568481033
+Akira Schmid
+G
+NJD
+05/12/2000
+205
+CHE
+L
+408477202
+Andrew Hammond
+G
+NJD
+02/11/1988
+223
+CAN
+L
+358480213
+Gilles Senn
+G
+N.J
+03/01/1996
+191
+CHE
+R
+318480213
+Gilles Senn
+G
+N.J
+03/01/1996
+191
+CHE
+R
+318471712
+Jeff Frazee
+G
+N.J
+05/13/1987
+195
+USA
+L
+318471712
+Jeff Frazee
+G
+N.J
+05/13/1987
+195
+USA
+L
+318460704
+Johan Hedberg
+G
+N.J
+05/05/1973
+190
+SWE
+L
+18476903
+Jon Gillies
+G
+NJD
+01/22/1994
+223
+USA
+L
+328473541
+Jonathan Bernier
+G
+NJD
+08/07/1988
+184
+CAN
+L
+458478965
+Ken Appleby
+G
+N.J
+04/10/1995
+210
+CAN
+L
+558459463
+Kevin Weekes
+G
+N.J
+04/04/1975
+215
+CAN
+L
+18478406
+Mackenzie Blackwood
+G
+NJD
+12/09/1996
+225
+CAN
+L
+298482076
+Nico Daws
+G
+NJD
+12/22/2000
+205
+DEU
+L
+508466339
+Scott Clemmensen
+G
+N.J
+07/23/1977
+200
+USA
+L
+408466339
+Scott Clemmensen
+G
+N.J
+07/23/1977
+200
+USA
+L
+408471186
+Yann Danis
+G
+N.J
+06/21/1981
+180
+CAN
+L
+40

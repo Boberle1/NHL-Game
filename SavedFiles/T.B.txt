@@ -1,0 +1,907 @@
+T.B
+113
+8479718
+Alex Barre-Boulet
+C
+TBL
+05/21/1997
+180
+CAN
+L
+608473986
+Alex Killorn
+L
+TBL
+09/14/1989
+196
+CAN
+L
+178478519
+Anthony Cirelli
+C
+TBL
+07/15/1997
+180
+CAN
+L
+718469666
+Brandon Bochenski
+R
+T.B
+04/04/1982
+195
+USA
+R
+278479542
+Brandon Hagel
+L
+TBL
+08/27/1998
+174
+CAN
+L
+388478010
+Brayden Point
+C
+TBL
+03/13/1996
+166
+CAN
+R
+218466160
+Brenden Morrow
+L
+T.B
+01/16/1979
+212
+CAN
+L
+108477832
+Cody Kunyk
+R
+T.B
+05/20/1990
+195
+CAN
+L
+288470621
+Corey Perry
+R
+TBL
+05/16/1985
+206
+CAN
+R
+108476195
+Cory Conacher
+C
+T.B
+12/14/1989
+180
+CAN
+L
+898478365
+Danick Martel
+L
+T.B
+12/12/1994
+162
+CAN
+L
+628478069
+Daniel Walcott
+L
+T.B
+02/19/1994
+175
+CAN
+L
+858470621
+Corey Perry
+R
+TBL
+05/16/1985
+206
+CAN
+R
+108476195
+Cory Conacher
+C
+T.B
+12/14/1989
+180
+CAN
+L
+898478365
+Danick Martel
+L
+T.B
+12/12/1994
+162
+CAN
+L
+628478069
+Daniel Walcott
+L
+T.B
+02/19/1994
+175
+CAN
+L
+858480863
+Gabriel Fortier
+L
+TBL
+02/06/2000
+173
+CAN
+L
+828450900
+Gary Roberts
+L
+T.B
+05/23/1966
+215
+CAN
+L
+108480863
+Gabriel Fortier
+L
+TBL
+02/06/2000
+173
+CAN
+L
+828450900
+Gary Roberts
+L
+T.B
+05/23/1966
+215
+CAN
+L
+108471312
+JT Wyman
+R
+T.B
+02/27/1986
+209
+USA
+R
+128466147
+Jason Ward
+R
+T.B
+01/16/1979
+208
+CAN
+R
+248466147
+Jason Ward
+R
+T.B
+01/16/1979
+208
+CAN
+R
+248477326
+Joel Vermin
+R
+T.B
+02/05/1992
+192
+CHE
+L
+928474085
+Johan Harju
+L
+T.B
+05/15/1986
+210
+SWE
+L
+248471277
+Martins Karsums
+R
+T.B
+02/26/1986
+198
+LVA
+R
+448471668
+Mattias Ritola
+C
+T.B
+03/14/1987
+192
+SWE
+L
+218475739
+Michael Bournival
+L
+T.B
+05/31/1992
+198
+CAN
+L
+158471916
+Mike Angelidis
+L
+T.B
+06/27/1985
+214
+CAN
+L
+108477426
+Nicholas Paul
+L
+TBL
+03/20/1995
+230
+CAN
+L
+138471916
+Mike Angelidis
+L
+T.B
+06/27/1985
+214
+CAN
+L
+108477426
+Nicholas Paul
+L
+TBL
+03/20/1995
+230
+CAN
+L
+138476453
+Nikita Kucherov
+R
+TBL
+06/17/1993
+178
+RUS
+L
+868476292
+Ondrej Palat
+L
+TBL
+03/28/1991
+188
+CZE
+L
+188474034
+Pat Maroon
+L
+TBL
+04/23/1988
+225
+USA
+L
+78474201
+Pierre-Cedric Labrie
+L
+T.B
+12/06/1986
+226
+CAN
+L
+498477930
+Pierre-Edouard Bellemare
+L
+TBL
+03/06/1985
+198
+FRA
+L
+418477461
+Remi Elie
+L
+TBL
+04/16/1995
+215
+CAN
+L
+818474062
+Riley Nash
+C
+TBL
+05/09/1989
+190
+CAN
+R
+208479525
+Ross Colton
+C
+TBL
+09/11/1996
+191
+USA
+L
+798471339
+Ryan Callahan
+R
+T.B
+03/21/1985
+187
+USA
+R
+248471634
+Ryan Shannon
+R
+T.B
+03/02/1983
+175
+USA
+R
+228474564
+Steven Stamkos
+C
+TBL
+02/07/1990
+194
+CAN
+R
+918476911
+Tanner Richard
+C
+T.B
+04/06/1993
+192
+CAN
+L
+388466292
+Todd Fedoruk
+L
+T.B
+02/13/1979
+232
+CAN
+L
+178475775
+Tye McGinn
+L
+T.B
+07/29/1990
+218
+CAN
+L
+448480158
+Andreas Borgman
+D
+T.B
+06/18/1995
+199
+SWE
+L
+558478049
+Ben Thomas
+D
+T.B
+05/28/1996
+187
+CAN
+R
+568471705
+Brendan Mikkelson
+D
+T.B
+06/22/1987
+210
+CAN
+L
+248471683
+Brian Lee
+D
+T.B
+03/26/1987
+200
+USA
+R
+158479984
+Cal Foote
+D
+TBL
+12/13/1998
+227
+USA
+R
+528474611
+Cameron Gaunce
+D
+T.B
+03/19/1990
+204
+CAN
+L
+338471958
+Dan Girardi
+D
+T.B
+04/29/1984
+212
+CAN
+R
+58478178
+Darren Raddysh
+D
+TBL
+02/28/1996
+200
+CAN
+R
+438471958
+Dan Girardi
+D
+T.B
+04/29/1984
+212
+CAN
+R
+58478178
+Darren Raddysh
+D
+TBL
+02/28/1996
+200
+CAN
+R
+438477082
+Dmitry Korobov
+D
+T.B
+03/12/1989
+230
+BLR
+L
+248478416
+Erik Cernak
+D
+TBL
+05/28/1997
+225
+SVK
+R
+818475104
+Evan Oberg
+D
+T.B
+02/16/1988
+191
+CAN
+L
+438476368
+Fredrik Claesson
+D
+TBL
+11/24/1992
+196
+SWE
+L
+338475073
+Geoff Kinrade
+D
+T.B
+07/29/1985
+195
+CAN
+L
+568478416
+Erik Cernak
+D
+TBL
+05/28/1997
+225
+SVK
+R
+818475104
+Evan Oberg
+D
+T.B
+02/16/1988
+191
+CAN
+L
+438476368
+Fredrik Claesson
+D
+TBL
+11/24/1992
+196
+SWE
+L
+338475073
+Geoff Kinrade
+D
+T.B
+07/29/1985
+195
+CAN
+L
+568456588
+Jamie Heward
+D
+T.B
+03/30/1971
+215
+CAN
+R
+288480172
+Jan Rutta
+D
+TBL
+07/29/1990
+200
+CZE
+R
+448471359
+Janne Niskala
+D
+T.B
+09/22/1981
+187
+FIN
+L
+298468745
+Jean-Philippe Cote
+D
+T.B
+04/22/1982
+216
+CAN
+L
+228456588
+Jamie Heward
+D
+T.B
+03/30/1971
+215
+CAN
+R
+288480172
+Jan Rutta
+D
+TBL
+07/29/1990
+200
+CZE
+R
+448471359
+Janne Niskala
+D
+T.B
+09/22/1981
+187
+FIN
+L
+298468745
+Jean-Philippe Cote
+D
+T.B
+04/22/1982
+216
+CAN
+L
+228466203
+Josef Melichar
+D
+T.B
+01/20/1979
+220
+CZE
+L
+68466203
+Josef Melichar
+D
+T.B
+01/20/1979
+220
+CZE
+L
+68473433
+Kevin Quick
+D
+T.B
+03/29/1988
+181
+USA
+L
+518459493
+Marek Malik
+D
+T.B
+06/24/1975
+235
+CZE
+L
+228470804
+Mathieu Roy
+D
+T.B
+08/10/1983
+210
+CAN
+R
+78470634
+Matt Smaby
+D
+T.B
+10/14/1984
+230
+USA
+L
+328475060
+Matt Taormina
+D
+T.B
+10/20/1986
+188
+USA
+L
+518467915
+Mike Commodore
+D
+T.B
+11/07/1979
+227
+CAN
+R
+238471413
+Mike Vernace
+D
+T.B
+05/26/1986
+216
+CAN
+L
+418479410
+Mikhail Sergachev
+D
+TBL
+06/25/1998
+215
+RUS
+L
+988467915
+Mike Commodore
+D
+T.B
+11/07/1979
+227
+CAN
+R
+238471413
+Mike Vernace
+D
+T.B
+05/26/1986
+216
+CAN
+L
+418479410
+Mikhail Sergachev
+D
+TBL
+06/25/1998
+215
+RUS
+L
+988474151
+Ryan McDonagh
+D
+TBL
+06/13/1989
+215
+USA
+L
+278465202
+Sami Salo
+D
+T.B
+09/02/1974
+215
+FIN
+R
+68471711
+Scott Jackson
+D
+T.B
+02/05/1987
+219
+CAN
+L
+588479413
+Sean Day
+D
+TBL
+01/09/1998
+218
+CAN
+L
+748465202
+Sami Salo
+D
+T.B
+09/02/1974
+215
+FIN
+R
+68471711
+Scott Jackson
+D
+T.B
+02/05/1987
+219
+CAN
+L
+588479413
+Sean Day
+D
+TBL
+01/09/1998
+218
+CAN
+L
+748475167
+Victor Hedman
+D
+TBL
+12/18/1990
+223
+SWE
+L
+778471704
+Vladimir Mihalik
+D
+T.B
+01/29/1987
+246
+SVK
+L
+568474567
+Zach Bogosian
+D
+TBL
+07/15/1990
+226
+USA
+R
+48476883
+Andrei Vasilevskiy
+G
+TBL
+07/25/1994
+207
+RUS
+L
+888470880
+Brian Elliott
+G
+TBL
+04/09/1985
+209
+CAN
+L
+378476444
+Christopher Gibson
+G
+T.B
+12/27/1992
+207
+FIN
+L
+338470147
+Curtis McElhinney
+G
+T.B
+05/23/1983
+203
+CAN
+L
+358470147
+Curtis McElhinney
+G
+T.B
+05/23/1983
+203
+CAN
+L
+358460806
+Dwayne Roloson
+G
+T.B
+10/12/1969
+170
+CAN
+L
+308475277
+Edward Pasquale
+G
+T.B
+11/20/1990
+215
+CAN
+L
+808460705
+Evgeni Nabokov
+G
+T.B
+07/25/1975
+202
+RUS
+L
+208475277
+Edward Pasquale
+G
+T.B
+11/20/1990
+215
+CAN
+L
+808460705
+Evgeni Nabokov
+G
+T.B
+07/25/1975
+202
+RUS
+L
+208481597
+Hugo Alnefelt
+G
+TBL
+06/04/2001
+177
+SWE
+L
+608464999
+Mathieu Garon
+G
+T.B
+01/09/1978
+198
+CAN
+R
+328476509
+Maxime Lagace
+G
+TBL
+01/12/1993
+190
+CAN
+L
+338448535
+Olie Kolzig
+G
+T.B
+04/06/1970
+224
+DEU
+L
+378473474
+Riku Helenius
+G
+T.B
+03/01/1988
+211
+FIN
+L
+358467959
+Sebastien Caron
+G
+T.B
+06/25/1980
+170
+CAN
+L
+358467959
+Sebastien Caron
+G
+T.B
+06/25/1980
+170
+CAN
+L
+35
